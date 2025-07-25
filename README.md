@@ -15,7 +15,7 @@
 - 📫 How to reach me: haideralitariqcheema@gmail.com
 
 
-- 😄 My website: https://thetechbrothers.net
+- 😄 My website: https://github.com/Haider-Ali-7
 
 
 - 💼 I'm laid off and actively looking for opportunities.
