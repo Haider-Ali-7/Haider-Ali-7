@@ -33,14 +33,8 @@
 ###### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=react,js,ts,redux,sentry,firebase,aws,github,git,postman,figma&perline=5)](https://skillicons.dev)
 
-
-
-
-
 ![Haider Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haider-Ali-7&show_icons=true&theme=dark)
 
-
-
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haider-Ali-7&theme=dark)
+
+![Visitors](https://komarev.com/ghpvc/?username=Haider-Ali-7)
