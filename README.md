@@ -2,7 +2,7 @@
  <h1 align="center">Hi 👋, I'm Haider Ali</h1>
 
 
-- 🔭 I’m currently working on React Native/Expo
+- 🔭 I’ve 4 years of experience in React Native/Expo
 - 🌱 I’m currently learning react-native-reanimated animations and 3d-model using react-native-filament
 - 💬 Ask me anything about React Native
 - 🚀 I’m eager to join new projects.
@@ -11,7 +11,7 @@
 - 😄 My website: https://github.com/Haider-Ali-7
 
 
-### Connect with me:
+###### Connect with me:
 
 
 <div id="badges" align="center">
@@ -21,7 +21,7 @@
   <a href="www.linkedin.com/in/haider-ali-tariq-n129">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=haideralitariqcheema@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/?source=mailto&to=haideralitariqcheema@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://x.com/htc007Cheema">
@@ -30,8 +30,7 @@
 </div>
 
 
-### Skills
-###### Languages and tools:
+###### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=react,js,ts,redux,sentry,firebase,aws,github,git,postman,figma&perline=5)](https://skillicons.dev)
 
 
