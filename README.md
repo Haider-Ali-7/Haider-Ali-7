@@ -1,27 +1,14 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
  <h1 align="center">Hi 👋, I'm Haider Ali</h1>
 
 
-
-
 - 🔭 I’m currently working on React Native/Expo
-
-
 - 🌱 I’m currently learning react-native-reanimated animations and 3d-model using react-native-filament
-
-
-- 💬 Ask me anything about React Native 
-
-
-- 📫 How to reach me: haideralitariqcheema@gmail.com
-
-
-- 😄 My website: https://github.com/Haider-Ali-7
-
-
+- 💬 Ask me anything about React Native
+- 🚀 I’m eager to join new projects.
 - 💼 I'm laid off and actively looking for opportunities.
-
-
-  
+- 📫 How to reach me: haideralitariqcheema@gmail.com
+- 😄 My website: https://github.com/Haider-Ali-7
 
 
 ### Connect with me:
@@ -40,13 +27,9 @@
 </div>
 
 
-
-
-
-### Languages and Tools:
-
-
-[![My Skills](https://skillicons.dev/icons?i=react,firebase,aws,js,ts,redux,sentry,github,git,postman,figma&perline=5)](https://skillicons.dev)
+### Skills
+###### Languages and tools:
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,redux,sentry,firebase,aws,github,git,postman,figma&perline=5)](https://skillicons.dev)
 
 
 
