@@ -34,7 +34,7 @@
   <a href="www.linkedin.com/in/haider-ali-tariq-n129">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://x/htc007Cheema">
+  <a href="https://x.com/htc007Cheema">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
