@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on React Native
+- 🔭 I’m currently working on React Native/Expo
 
 
 - 🌱 I’m currently learning react-native-reanimated animations and 3d-model using react-native-filament
@@ -18,7 +18,7 @@
 - 😄 My website: https://thetechbrothers.net
 
 
-- ⚡ Fun fact: I'm comming to teen
+- 💼 I'm laid off and actively looking for opportunities.
 
 
   
