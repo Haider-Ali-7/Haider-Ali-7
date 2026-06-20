@@ -18,7 +18,7 @@
   <a href="https://github.com/Haider-Ali-7">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="www.linkedin.com/in/haider-ali-tariq-n129">
+  <a href="https://linkedin.com/in/haider-ali-tariq-n129">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=haideralitariqcheema@gmail.com">
@@ -31,7 +31,7 @@
 
 
 ###### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,redux,sentry,firebase,aws,github,git,postman,figma&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,expo,react-native,zustand,js,ts,redux,sentry,firebase,aws,github,git,postman,figma&perline=5)](https://skillicons.dev)
 
 ![Haider Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haider-Ali-7&show_icons=true&theme=dark)
 
