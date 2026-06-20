@@ -8,7 +8,7 @@
 - 🚀 I’m eager to join new projects.
 - 💼 I'm laid off and actively looking for opportunities.
 - 📫 How to reach me: haideralitariqcheema@gmail.com
-- 😄 My website: https://github.com/Haider-Ali-7
+- 😄 My website: https://haider-ali-7-me.vercel.app/
 
 
 ###### Connect with me:
