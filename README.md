@@ -31,7 +31,7 @@
 
 
 ###### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=react,next,expo,react-native,zustand,js,ts,redux,sentry,firebase,aws,github,git,postman,figma&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,js,ts,redux,sentry,firebase,aws,nodejs,express,mongodb,bun,sentry,github,git,githubactions,postman,figma&perline=5)](https://skillicons.dev)
 
 ![Haider Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haider-Ali-7&show_icons=true&theme=dark)
 
