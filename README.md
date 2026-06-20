@@ -2,8 +2,8 @@
  <h1 align="center">Hi 👋, I'm Haider Ali</h1>
 
 
-- 🔭 I’ve 4 years of experience in React Native/Expo
-- 🌱 I’m currently learning react-native-reanimated animations and 3d-model using react-native-filament
+- 🔭 I’ve 6 years of experience in React Native/Expo, React.js and Next.js
+- 🌱 I’m currently learning react-native-reanimated animations
 - 💬 Ask me anything about React Native
 - 🚀 I’m eager to join new projects.
 - 💼 I'm laid off and actively looking for opportunities.
